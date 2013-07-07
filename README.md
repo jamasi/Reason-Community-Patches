@@ -12,4 +12,4 @@ All content here should be given into the public domain using the [CC0 license](
 ToDo
 ----
 
-As a first step we should find a clever way to orgnaise the patches.
+As a first step we should find a clever way to organise the patches.
